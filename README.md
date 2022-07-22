@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peterjd94
-- 👀 I’m interested in Web Development, Programming, Macro-Economics & Finance
+- 👀 I’m interested in Web Development, Programming & also a data nerd!
 - 🌱 I’m currently learning HTML, CSS, Javascript, C++ and Python
 - 💞️ I’m looking to collaborate on Undisclosed
 - 📫 How to reach me 
